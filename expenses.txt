@@ -1,0 +1,4 @@
+1 50.75 Food 2024-10-10    Lunch
+2 50 Bus 2025-10-12  GO TO
+4 5 food 2024-4-4    Dinner
+5 100 Movie 2024-10-25 A watched a movie called "VENUM"
